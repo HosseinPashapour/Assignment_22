@@ -16,7 +16,7 @@ This program organizes tasks based on important tasks and undone tasks
 execute this command in terminal:
 Run following command :
 ```
-pip install pyside6
+pip install main.py
 ```
 
 >## How to install
